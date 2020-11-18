@@ -1,3 +1,4 @@
+
 .contact:hover {
   transform: scale(1.2);
 }
@@ -10,14 +11,13 @@
   transform: scale(1.2);
 }
 
-.contact:active {
-  font-size: 24pt;
+.contact:active{
+  font-size: 30pt;
+}
+.about:active{
+  font-size: 30pt;
+}
+.portfolio:active{
+  font-size: 30pt
 }
 
-.about:active {
-  font-size: 24pt;
-}
-
-.portfolio:active {
-  font-size: 24pt;
-}
