@@ -1,0 +1,23 @@
+.contact:hover {
+  transform: scale(1.2);
+}
+
+.about:hover {
+  transform: scale(1.2);
+}
+
+.portfolio:hover {
+  transform: scale(1.2);
+}
+
+.contact:active {
+  font-size: 24pt;
+}
+
+.about:active {
+  font-size: 24pt;
+}
+
+.portfolio:active {
+  font-size: 24pt;
+}
