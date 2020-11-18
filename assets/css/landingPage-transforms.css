@@ -1,12 +1,14 @@
 
-.contact:hover{
-  transform: scale(3.14);
+.contact:hover {
+  transform: scale(1.2);
 }
-.about:hover{
-  transform: scale(3.14);
+
+.about:hover {
+  transform: scale(1.2);
 }
-.portfolio:hover{
-  transform: scale(3.14);
+
+.portfolio:hover {
+  transform: scale(1.2);
 }
 
 .contact:active{
@@ -18,3 +20,4 @@
 .portfolio:active{
   font-size: 30pt
 }
+
